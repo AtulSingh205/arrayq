@@ -1,0 +1,16 @@
+{
+  "name": "qutions",
+  "version": "1.0.0",
+  "main": "array.js",
+  "scripts": {
+    "dev":"nodemon array.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
